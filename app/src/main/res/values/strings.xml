@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Virtus Digital</string>
+
+    <!-- Item -->
+    <string name="item_title">Título</string>
+    <string name="item_author_created_at">Autor - Fecha de creación</string>
+
+    <!-- Error Message -->
+    <string name="error_connection">
+        Lo sentimos, hubo un error en la conexión. Por favor, vuelve a intentar.
+    </string>
+    <string name="error_url_na">Lo sentimos, este artículo no cuenta con sitio web.</string>
+
+</resources>

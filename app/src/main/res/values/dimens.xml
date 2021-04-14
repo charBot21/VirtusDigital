@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- General dimens -->
+    <dimen name="zero_dimen">0dp</dimen>
+
+    <!-- Padding -->
+    <dimen name="p_16">16dp</dimen>
+
+</resources>
